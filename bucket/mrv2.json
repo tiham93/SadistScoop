@@ -1,12 +1,11 @@
 {
-    "version":  "1.2.5",
+    "version": "1.3.7",
     "description": "Media review app for animaton/vfx",
+    "license": "MIT",
+    "url": "https://github.com/ggarra13/mrv2/releases/download/v1.3.7/mrv2-v1.3.7-Windows-amd64.zip",
+    "extract_dir": "mrv2-v1.3.7-Windows-amd64",
     "homepage": "https://github.com/ggarra13/mrv2",
-    "license":  "MIT",
-    "url":  "https://github.com/ggarra13/mrv2/releases/download/v1.2.5/mrv2-v1.2.5-Windows-amd64.zip",
-    "extract_dir": "mrv2-v1.2.5-Windows-amd64",
-    "homepage":  "https://github.com/ggarra13/mrv2",
-    "bin":  "bin\\mrv2.exe",
+    "bin": "bin\\mrv2.exe",
     "shortcuts": [
         [
             "mrv2.exe",
