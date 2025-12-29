@@ -8,5 +8,6 @@ Personal collection of apps I use
 - [HDoujin Downloader](https://doujindownloader.com) - Download and manage manga from 800+ sources
 - [mrv2](https://mrv2.sourceforge.io) - Media review for professional use
 - [memento](https://ripose-jp.github.io/Memento) - Video player for language learning (Japanese) with dictionary and anki integrations
+- [Legendary (Heroic's fork)](https://github.com/Heroic-Games-Launcher/legendary) - Unofficial Epic Games terminal launcher, forked and maintained by Heroic Launcher
 
 
